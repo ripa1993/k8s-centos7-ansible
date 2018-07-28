@@ -1,0 +1,5 @@
+[master]
+k8smaster ansible_host=x.x.x.x ansible_user=root
+
+[workers]
+k8snode01 ansible_host=x.x.x.x ansible_user=root
